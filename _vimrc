@@ -1,3 +1,4 @@
+" comment
 set termguicolors                       " enable background colors in themes
 
 set nocompatible              " be iMproved, required
